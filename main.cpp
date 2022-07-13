@@ -12,5 +12,9 @@ int main()
     {
         std::count<<"sdfsdf";
     }
+    asdfasdf
+    asdfasdf
+    asdfasdf
+    asdf
     return 0;
 }
